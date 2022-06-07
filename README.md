@@ -1,3 +1,6 @@
-# AvitoTracker
-This is telegram bot to parsing avito and search new goods.
-Use async While True and send message from cycle
+# Free To Pay Volga bot telegram 
+This is telegram bot to generate fake screen of payment in bus.
+Use:
+qrcode generation
+get query
+qiwi pay
